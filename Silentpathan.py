@@ -1,1 +1,1 @@
-import Khankhan
+import khankhan
